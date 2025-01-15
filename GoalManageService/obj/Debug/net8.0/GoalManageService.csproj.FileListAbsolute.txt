@@ -1,0 +1,11 @@
+D:\Code\C#\GoalManageService\GoalManageService\bin\Debug\net8.0\GoalManageService.deps.json
+D:\Code\C#\GoalManageService\GoalManageService\bin\Debug\net8.0\GoalManageService.dll
+D:\Code\C#\GoalManageService\GoalManageService\bin\Debug\net8.0\GoalManageService.pdb
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.AssemblyInfoInputs.cache
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.AssemblyInfo.cs
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.csproj.CoreCompileInputs.cache
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.dll
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\refint\GoalManageService.dll
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\GoalManageService.pdb
+D:\Code\C#\GoalManageService\GoalManageService\obj\Debug\net8.0\ref\GoalManageService.dll

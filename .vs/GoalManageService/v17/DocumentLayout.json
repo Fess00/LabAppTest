@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\C#\\GoalManageService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|d:\\code\\c#\\goalmanageservice\\goalmanageservice\\services\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|solutionrelative:goalmanageservice\\services\\goalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|d:\\code\\c#\\goalmanageservice\\goalmanageservice\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|solutionrelative:goalmanageservice\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}|GoalManagerTests\\GoalManagerTests.csproj|d:\\code\\c#\\goalmanageservice\\goalmanagertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}|GoalManagerTests\\GoalManagerTests.csproj|solutionrelative:goalmanagertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|d:\\code\\c#\\goalmanageservice\\goalmanageservice\\models\\goalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|solutionrelative:goalmanageservice\\models\\goalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|d:\\code\\c#\\goalmanageservice\\goalmanageservice\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|solutionrelative:goalmanageservice\\models\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}|GoalManagerTests\\GoalManagerTests.csproj|d:\\code\\c#\\goalmanageservice\\goalmanagertests\\goalmanagertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}|GoalManagerTests\\GoalManagerTests.csproj|solutionrelative:goalmanagertests\\goalmanagertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|d:\\code\\c#\\goalmanageservice\\goalmanageservice\\goalmanageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A4E13A-235E-41A0-9529-279CC19401EA}|GoalManageService\\GoalManageService.csproj|solutionrelative:goalmanageservice\\goalmanageservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GoalManagerTests",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManagerTests\\GoalManagerTests.csproj",
+              "RelativeDocumentMoniker": "GoalManagerTests\\GoalManagerTests.csproj",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManagerTests\\GoalManagerTests.csproj",
+              "RelativeToolTip": "GoalManagerTests\\GoalManagerTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T22:19:36.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManagerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "GoalManagerTests\\UnitTest1.cs",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManagerTests\\UnitTest1.cs",
+              "RelativeToolTip": "GoalManagerTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T22:18:02.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoalManager.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Services\\GoalManager.cs",
+              "RelativeDocumentMoniker": "GoalManageService\\Services\\GoalManager.cs",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Services\\GoalManager.cs",
+              "RelativeToolTip": "GoalManageService\\Services\\GoalManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:52:15.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "GoalManageService\\Models\\Priority.cs",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\Priority.cs",
+              "RelativeToolTip": "GoalManageService\\Models\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:48:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoalStatus.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\GoalStatus.cs",
+              "RelativeDocumentMoniker": "GoalManageService\\Models\\GoalStatus.cs",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\GoalStatus.cs",
+              "RelativeToolTip": "GoalManageService\\Models\\GoalStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:46:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoalManageService",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\GoalManageService.csproj",
+              "RelativeDocumentMoniker": "GoalManageService\\GoalManageService.csproj",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\GoalManageService.csproj",
+              "RelativeToolTip": "GoalManageService\\GoalManageService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T21:45:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\Goal.cs",
+              "RelativeDocumentMoniker": "GoalManageService\\Models\\Goal.cs",
+              "ToolTip": "D:\\Code\\C#\\GoalManageService\\GoalManageService\\Models\\Goal.cs",
+              "RelativeToolTip": "GoalManageService\\Models\\Goal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T21:45:01.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalManageService", "GoalManageService\GoalManageService.csproj", "{12A4E13A-235E-41A0-9529-279CC19401EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalManagerTests", "GoalManagerTests\GoalManagerTests.csproj", "{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A4E13A-235E-41A0-9529-279CC19401EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A4E13A-235E-41A0-9529-279CC19401EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A4E13A-235E-41A0-9529-279CC19401EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A4E13A-235E-41A0-9529-279CC19401EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21B93CC-FFCF-4A73-9480-349A4F0FAEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42EB0A9B-BFC3-4022-BF86-9DB50B0B6B3F}
+	EndGlobalSection
+EndGlobal
